@@ -9,7 +9,7 @@ public class Ex01 {
 		 오버라이딩 조건
 		 - 부모 메소드와 이름이 같아야 한다.
 		 - 매개변수 개수 타입이 같아야 한다.
-		 - 접근 제한자가 보무와 같거나 커야한다.
+		 - 접근 제한자가 부모와 같거나 커야한다.
 		 	- private < package < protected < public
 		 */
 			//Feraari fe = new Faarary(2021);
